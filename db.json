@@ -1,0 +1,304 @@
+{
+  "Messages": [
+    {
+      "id": 1,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Hola , me gustaría obtener un asesoramiento",
+      "order": 1,
+      "hour":"10:03 pm"
+    },
+    {
+      "id": 2,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Hola diego, claro! dime cómo te puedo ayudar",
+      "order": 2,
+      "hour":"10:09 pm"
+    },
+    {
+      "id": 3,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Quiero empezar un cultivo de lechugas pero no tengo experiencia",
+      "order": 3,
+      "hour":"10:13 pm"
+    },
+    {
+      "id": 4,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Okey ¿de cuántos metros estamos hablando?",
+      "order": 4,
+      "hour":"10:14 pm"
+    },
+    {
+      "id": 5,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Serian 6 metros de largo",
+      "order": 5,
+      "hour":"10:16 pm"
+    },
+    {
+      "id": 6,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "bien, tienes conocimiento de la tierra en la que estas cultivando",
+      "order": 6,
+      "hour":"10:18 pm"
+    },
+    {
+      "id": 7,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "No en realidad",
+      "order": 7,
+      "hour":"10:21 pm"
+    },
+    {
+      "id": 8,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Bueno, hay algunos tipos de tierra que son mejores para cultivar",
+      "order": 8,
+      "hour":"10:22 pm"
+    },
+    {
+      "id": 9,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Entiendo, voy a averiguar que tierra es!",
+      "order": 9,
+      "hour":"10:25 pm"
+    },
+    {
+      "id": 10,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Perfecto, con eso estaria bien para empezar el proyecto",
+      "order": 10,
+      "hour":"10:29 pm"
+    },
+    {
+      "id": 11,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Que dias tienes disponibles?",
+      "order": 11,
+      "hour":"10:32 pm"
+    },
+    {
+      "id": 12,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Ahorita cuento con 6 dias a la semana, los domingos descanso",
+      "order": 12,
+      "hour":"10:38 pm"
+    },
+    {
+      "id": 13,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Podrian ser los lunes, miercoles y viernes? Esos dias voy a la mi chacra y se me haria mejor contar con tu disponibilidad para que me respondas alguna duda que puedo tener en ese momento",
+      "order": 13,
+      "hour":"10:45 pm"
+    }
+  ],
+  "Projects": [
+    {
+      "id": 1,
+      "farmerId": 1,
+      "specialistId": 1,
+      "isProjectStarted":true,
+      "cropId":1,
+      "name": "Lettuce Project",
+      "description":"Este projecto es para tu cultivo de lechugas",
+      "weeks": 8,
+      "totalActivities": 10,
+      "activitiesDone": 1,
+      "progress":1
+    },
+    {
+      "id": 2,
+      "farmerId": 1,
+      "specialistId": 3,
+      "isProjectStarted":false,
+      "cropId":2,
+      "name": "Tomato Project",
+      "description":"Este projecto es para tu cultivo de tomates",
+      "weeks": 10,
+      "totalActivities": 15,
+      "activitiesDone": 0,
+      "progress":0
+    },
+    {
+      "id": 3,
+      "farmerId": 1,
+      "specialistId": 4,
+      "isProjectStarted":false,
+      "cropId":3,
+      "name": "Carrot Project",
+      "description":"Este projecto es para tu cultivo de zanahorias",
+      "weeks": 11,
+      "totalActivities": 20,
+      "activitiesDone": 0,
+      "progress":0
+    }
+  ],
+  "Activities": [
+    {
+        "id": 1,
+        "projectId": 1,
+        "title": "Sembrar semillas",
+        "description": "Preparar el suelo y plantar las semillas de lechuga en macetas o en el jardín.",
+        "date": "2023-10-12",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "projectId": 1,
+        "title": "Riego inicial",
+        "description": "Después de sembrar, asegurarse de proporcionar suficiente agua para humedecer el suelo.",
+        "date": "2023-10-17",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "projectId": 1,
+        "title": "Fertilización",
+        "description": "Aplicar un fertilizante equilibrado para promover el crecimiento de las plántulas de lechuga.",
+        "date": "2023-10-20",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "projectId": 1,
+        "title": "Trasplante",
+        "description": "Trasplantar las plántulas de lechuga al jardín o a macetas más grandes cuando tengan suficiente tamaño.",
+        "date": "2023-11-05",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "projectId": 1,
+        "title": "Riego regular",
+        "description": "Mantener un programa de riego regular para mantener el suelo húmedo pero no empapado.",
+        "date": "2023-11-10",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "projectId": 1,
+        "title": "Control de plagas",
+        "description": "Inspeccionar las plantas de lechuga en busca de plagas y aplicar medidas de control si es necesario.",
+        "date": "2023-11-20",
+        "completed": false
+    },
+    {
+        "id": 7,
+        "projectId": 1,
+        "title": "Podar hojas dañadas",
+        "description": "Recortar hojas dañadas o en mal estado para fomentar el crecimiento saludable de la lechuga.",
+        "date": "2023-11-25",
+        "completed": false
+    },
+    {
+        "id": 8,
+        "projectId": 1,
+        "title": "Fertilización adicional",
+        "description": "Aplicar un fertilizante con alto contenido de nitrógeno para promover el crecimiento de las hojas de lechuga.",
+        "date": "2023-12-01",
+        "completed": false
+    },
+    {
+        "id": 9,
+        "projectId": 1,
+        "title": "Cosecha de lechugas",
+        "description": "Cuando las lechugas estén maduras, cosecharlas cuidadosamente para su consumo.",
+        "date": "2023-12-15",
+        "completed": false
+    },
+    {
+        "id": 10,
+        "projectId": 1,
+        "title": "Limpieza y preparación del suelo",
+        "description": "Después de la cosecha, limpiar y preparar el suelo para futuros cultivos de lechugas u otras plantas.",
+        "date": "2023-12-20",
+        "completed": false
+    }
+  ],
+  "Projects": [
+    {
+      "id": 1,
+      "farmerId": 1,
+      "specialistId": 1,
+      "isProjectStarted":true,
+      "cropId":1,
+      "name": "Lettuce Project",
+      "description":"Este projecto es para tu cultivo de lechugas",
+      "weeks": 8,
+      "totalActivities": 10,
+      "activitiesDone": 1,
+      "progress":1
+    },
+    {
+      "id": 2,
+      "farmerId": 1,
+      "specialistId": 3,
+      "isProjectStarted":false,
+      "cropId":2,
+      "name": "Tomato Project",
+      "description":"Este projecto es para tu cultivo de tomates",
+      "weeks": 10,
+      "totalActivities": 15,
+      "activitiesDone": 0,
+      "progress":0
+    },
+    {
+      "id": 3,
+      "farmerId": 1,
+      "specialistId": 4,
+      "isProjectStarted":false,
+      "cropId":3,
+      "name": "Carrot Project",
+      "description":"Este projecto es para tu cultivo de zanahorias",
+      "weeks": 11,
+      "totalActivities": 20,
+      "activitiesDone": 0,
+      "progress":0
+    }
+  ],
+  "Devices": [
+    {
+        "id": 1,
+        "name": "Lettuce humedity sensor",
+        "model": "Yl-69",
+        "category": "Humidity sensor",
+        "cropName": "Lettuce",
+        "farmerId":1,
+        "projectId":1,
+        "active": true
+    },
+    {
+        "id": 1,
+        "name": "Lettuce temperature sensor",
+        "model": "Ds1820",
+        "category": "Temperature sensor",
+        "cropName": "Lettuce",
+        "farmerId":1,
+        "projectId":1,
+        "active": true
+    },
+    {
+        "id": 1,
+        "name": "Lettuce light sensor",
+        "model": "LDR",
+        "category": "Light sensor",
+        "cropName": "Lettuce",
+        "farmerId":1,
+        "projectId":1,
+        "active": true
+    }
+  ]
+}
