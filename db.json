@@ -54,15 +54,6 @@
         "stock": 30,
         "specifications": "Rango de Lux: 0.1 - 40,000 Lux $ Resolución: 16 bits $ Voltaje de Operación: 2.7-3.6V $ Interfaz de Salida: I2C"
     }
-  ],
-  "notifications":[
-    {
-      "id":1,
-      "message":"Your lettuce is getting dry!",
-      "notificationType":"crop",
-      "userId":1,
-      "plantId":4,
-      "seen":false
-    }
   ]
+  
 }
