@@ -61,6 +61,7 @@
       "message":"Your lettuce is getting dry!",
       "imageUrl":"https://www.bhg.com/thmb/oL0DwR0DXrhFynA2y-oiY-nkCbg=/1878x0/filters:no_upscale():strip_icc()/tango-oakleaf-lettuce-c6f6417e-4cffa63034624d96a9e9ec9a3fe158f9.jpg",
       "notificationType":"crop",
+      "date":"19/10/2023 15:59:28"
       "userId":1,
       "plantId":4,
       "specialistId":0,
@@ -70,6 +71,7 @@
       "id":2,
       "message":"Laura González has just accepted your request!",
       "notificationType":"request",
+      "date":"19/10/2023 13:59:28"
       "imageUrl":"https://www.revistaeconomia.com/wp-content/uploads/2023/09/revistaeconomia-2023-09-06T164349.170.jpg",
       "userId":1,
       "plantId":0,
