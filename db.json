@@ -61,6 +61,7 @@
       "message":"Your lettuce is getting dry!",
       "notificationType":"crop",
       "userId":1,
+      "plantId":4
       "seen":false
     }
   ]
