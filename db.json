@@ -62,6 +62,25 @@
       "notificationType":"crop",
       "userId":1,
       "plantId":4,
+      "specialistId":0,
+      "seen":false
+    },
+    {
+      "id":2,
+      "message":"Laura González has just accepted your request!",
+      "notificationType":"request",
+      "userId":1,
+      "plantId":0,
+      "specialistId":3,
+      "seen":false
+    },
+    {
+      "id":2,
+      "message":"Laura González has just accepted your request!",
+      "notificationType":"request",
+      "userId":1,
+      "plantId":0,
+      "specialistId":3,
       "seen":false
     }
   ]
