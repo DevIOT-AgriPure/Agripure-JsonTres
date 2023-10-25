@@ -77,6 +77,39 @@
       "plantId":0,
       "specialistId":3,
       "seen":false
+    },
+    {
+      "id":3,
+      "message":"Diego just sent you a request!",
+      "notificationType":"request",
+      "date":"19/10/2023 13:59:28",
+      "imageUrl":"https://static.educalingo.com/img/en/800/farmer.jpg",
+      "userId":1,
+      "plantId":0,
+      "specialistId":2,
+      "seen":false
+    },
+    {
+      "id":4,
+      "message":"Huell just sent you a request!",
+      "notificationType":"request",
+      "date":"19/10/2023 13:59:28",
+      "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9Jp2MCdkWLjdRUI8drbts3f8mB1_xWYhUg&usqp=CAU",
+      "userId":7,
+      "plantId":0,
+      "specialistId":2,
+      "seen":false
+    },
+    {
+      "id":5,
+      "message":"Saul just sent you a request!",
+      "notificationType":"request",
+      "date":"19/10/2023 13:59:28",
+      "imageUrl":"https://cdn.britannica.com/91/239191-050-8A4AD379/publicity-still-Better-Call-Saul-Bob-Odenkirk-2022.jpg",
+      "userId":8,
+      "plantId":0,
+      "specialistId":2,
+      "seen":false
     }
   ]
 }
