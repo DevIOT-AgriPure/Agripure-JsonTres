@@ -62,7 +62,7 @@
       "imageUrl":"https://www.bhg.com/thmb/oL0DwR0DXrhFynA2y-oiY-nkCbg=/1878x0/filters:no_upscale():strip_icc()/tango-oakleaf-lettuce-c6f6417e-4cffa63034624d96a9e9ec9a3fe158f9.jpg",
       "notificationType":"crop",
       "date":"19/10/2023 15:59:28",
-      "forUserId":1,
+      "toUserId":1,
       "plantId":4,
       "fromUserId":0,
       "seen":false
