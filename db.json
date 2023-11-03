@@ -111,5 +111,19 @@
       "fromUserId":8,
       "seen":false
     }
+  ],
+  "plans":[
+    {
+      "id":1,
+      "name":"Free",
+      "price":"0",
+      "description":"Allows you to manage unlimited crops"
+    },
+    {
+      "id":1,
+      "name":"Premium",
+      "price":"20",
+      "description":"Allows you to have projects and devices"
+    }
   ]
 }
