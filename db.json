@@ -35,24 +35,6 @@
         "imageUrl": "https://mastertronicventas.com/wp-content/uploads/2020/10/DHT11.jpg",
         "stock": 70,
         "specifications": "Rango de Temperatura: 0°C a 50°C $ Rango de Humedad: 20-80% $ Precisión de Temperatura: ±2°C $ Precisión de Humedad: ±5% $ Voltaje de Operación: 3.5-5.5V $ Interfaz de Salida: Digital (Digital Serial)"
-    },
-    {
-        "id": 5,
-        "model": "LDR",
-        "category": "Light Sensor",
-        "price": 15,
-        "imageUrl": "https://saisac.pe/wp-content/uploads/2020/03/SENSOR-DE-LUZ-LDR-3-PINES.jpg",
-        "stock": 40,
-        "specifications": "Tipo de Fotocelda: Resistor Dependiente de Luz (LDR) $ Rango de Resistencia: 10-200k ohms $ Voltaje de Operación: 3.3-5V $ Interfaz de Salida: Analógica"
-    },
-    {
-        "id": 6,
-        "model": "TSL2561",
-        "category": "Light Sensor",
-        "price": 35,
-        "imageUrl": "https://cdn-learn.adafruit.com/guides/images/000/000/035/medium800/439-01.jpg",
-        "stock": 30,
-        "specifications": "Rango de Lux: 0.1 - 40,000 Lux $ Resolución: 16 bits $ Voltaje de Operación: 2.7-3.6V $ Interfaz de Salida: I2C"
     }
   ],
   "notifications":[
