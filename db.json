@@ -2,39 +2,21 @@
   "DevicesCatalog": [
     {
         "id": 1,
-        "model": "YL-69",
-        "category": "Humidity Sensor",
-        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_624454-MPE45814555003_052021-F.webp",
-        "price": 25,
-        "stock": 100,
-        "specifications": "Sensibilidad: Alta $ Rango de Medición: 0-100% $ Precisión: ±5% $ Voltaje de Operación: 3.3-5V $ Interfaz de Salida: Analógica"
-    },
-    {
-        "id": 2,
         "model": "DHT22",
-        "category": "Humidity Sensor",
+        "category": "Temperature/Humidity Sensor",
         "price": 30,
         "imageUrl": "https://files.readme.io/57b2f62-g01_a_alicdn_com_kf_HTB1mQiQJVXXXXX9apXXq6xXFXXXm_2016-New-3Pcs-Lot-DHT22-AM2302-Digital-Temperature-Humidity-Sensor-Temperature-and-humidity-Module-Replacement-SHT11_jpg.png",
         "stock": 50,
         "specifications": "Rango de Temperatura: -40°C a 80°C $ Rango de Humedad: 0-100% $ Precisión de Temperatura: ±0.5°C $ Precisión de Humedad: ±2% $ Voltaje de Operación: 3.3-5.5V $ Interfaz de Salida: Digital (Digital Serial)"
     },
     {
-        "id": 3,
+        "id": 2,
         "model": "DS18B20",
         "category": "Temperature Sensor",
         "price": 20,
         "imageUrl": "https://media.naylampmechatronics.com/759-superlarge_default/sensor-de-temperatura-digital-ds18b20.jpg",
         "stock": 60,
         "specifications": "Rango de Temperatura: -55°C a 125°C $ Resolución: 12 bits (0.0625°C) $ Voltaje de Operación: 3.0-5.5V $ Interfaz de Salida: Digital (1-Wire)"
-    },
-    {
-        "id": 4,
-        "model": "DHT11",
-        "category": "Temperature Sensor",
-        "price": 18,
-        "imageUrl": "https://mastertronicventas.com/wp-content/uploads/2020/10/DHT11.jpg",
-        "stock": 70,
-        "specifications": "Rango de Temperatura: 0°C a 50°C $ Rango de Humedad: 20-80% $ Precisión de Temperatura: ±2°C $ Precisión de Humedad: ±5% $ Voltaje de Operación: 3.5-5.5V $ Interfaz de Salida: Digital (Digital Serial)"
     }
   ],
   "notifications":[
