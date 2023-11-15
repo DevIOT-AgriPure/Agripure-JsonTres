@@ -4,7 +4,7 @@
         "id": 1,
         "model": "DHT22",
         "category": "Temperature/Humidity Sensor",
-        "price": 30,
+        "price": 35,
         "imageUrl": "https://files.readme.io/57b2f62-g01_a_alicdn_com_kf_HTB1mQiQJVXXXXX9apXXq6xXFXXXm_2016-New-3Pcs-Lot-DHT22-AM2302-Digital-Temperature-Humidity-Sensor-Temperature-and-humidity-Module-Replacement-SHT11_jpg.png",
         "stock": 50,
         "specifications": "Rango de Temperatura: -40°C a 80°C $ Rango de Humedad: 0-100% $ Precisión de Temperatura: ±0.5°C $ Precisión de Humedad: ±2% $ Voltaje de Operación: 3.3-5.5V $ Interfaz de Salida: Digital (Digital Serial)"
@@ -13,7 +13,7 @@
         "id": 2,
         "model": "DS18B20",
         "category": "Temperature Sensor",
-        "price": 20,
+        "price": 25,
         "imageUrl": "https://media.naylampmechatronics.com/759-superlarge_default/sensor-de-temperatura-digital-ds18b20.jpg",
         "stock": 60,
         "specifications": "Rango de Temperatura: -55°C a 125°C $ Resolución: 12 bits (0.0625°C) $ Voltaje de Operación: 3.0-5.5V $ Interfaz de Salida: Digital (1-Wire)"
